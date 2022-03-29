@@ -1,2 +1,2 @@
 # QuantumultX
-NHK sever
+NHK server
