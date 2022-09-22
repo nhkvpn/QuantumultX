@@ -1,2 +1,2 @@
 # QuantumultX
-NHK server
+nhkvpn.net
